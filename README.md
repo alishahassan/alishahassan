@@ -10,5 +10,5 @@ i love exploring the intersection of **code, design, and interaction** to create
 
 ### about me:  
 ・ computer science student (class of 2026, B.S. in computer science)  
-・ interested in software engineering, ux engineering, astrophysics data research & creative technology   
-・ fueled by earl grey tea, design systems, and interactive media experiments
+・ interested in software engineering, astrophysics research, machine learning, & creative technology   
+・ fueled by earl grey tea and interactive media experiments
